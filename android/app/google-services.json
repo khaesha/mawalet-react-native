@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762413090110",
+    "firebase_url": "https://mawalet-fd161.firebaseio.com",
+    "project_id": "mawalet-fd161",
+    "storage_bucket": "mawalet-fd161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762413090110:android:4ad0a06c83134dd8",
+        "android_client_info": {
+          "package_name": "com.mawalet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762413090110-8hi3ru4ee3aogmavo03og4vttgf0fd28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mawalet",
+            "certificate_hash": "8676ebcb74b3cd43340ba7e7bbd3f5b4b9bb2401"
+          }
+        },
+        {
+          "client_id": "762413090110-o08mua0adqt3133jq47fn2aiii82lav2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4MBoqnAk6trCX9RV4H2uPMhhpXpm7Xw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762413090110-o08mua0adqt3133jq47fn2aiii82lav2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
